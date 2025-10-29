@@ -1,3 +1,1 @@
-# Basic Python - no external dependencies needed
-# Railway needs at least an empty requirements.txt or one dependency
-setuptools>=65.0.0
+
